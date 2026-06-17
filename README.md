@@ -1,7 +1,7 @@
 ### 이세은(Lee Seeun)
 
 ---
-### 🏫 상명대학교 SW융합학부 컴퓨터과학전공 재학(Sangmyung University, Department of Computer Science)
+##### 🏫 상명대학교 SW융합학부 컴퓨터과학전공 재학(Sangmyung University, Department of Computer Science)
 
 <!--
 **seeun7/seeun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
