@@ -1,10 +1,12 @@
-### 이세은(Lee Seeun)
-
+## 이세은(Lee Seeun)
+##### 🙆‍ 
 ---
 ##### 🏫 상명대학교 SW융합학부 컴퓨터과학전공 재학(Sangmyung University, Department of Computer Science)
 ---
 #### 💻 Tech Stack
-  - 
+  📍Language/Backend -
+  📍Database/Infra - 
+  📍
 
 #### 🪪 Certifications
  - SQLD(2025.09.19)
