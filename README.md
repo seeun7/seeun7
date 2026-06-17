@@ -3,14 +3,14 @@
 ---
 ##### 🏫 상명대학교 SW융합학부 컴퓨터과학전공 재학(Sangmyung University, Department of Computer Science)
 ---
-#### 💻 Tech Stack
+### 💻 Tech Stack
  📍Language/Backend  
  📍Database/Infra  
 
-#### 🪪 Certifications
+### 🪪 Certifications
  - SQLD(2025.09.19)
 --- 
-##### 📬contact
+#### 📬contact
   - email - dldlfkfk18@gmail.com
 
 <!--
