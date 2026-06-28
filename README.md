@@ -5,7 +5,7 @@
 ---
 ### 💻 Tech Stack
  📍Language/Backend - Python(FastAPI)  
- 📍Database/Infra -  Postgresql, Docker, Redis  
+ 📍Database/Infra -  PostgreSQL, Docker, Redis  
 
 ### 🪪 Certifications
  - SQLD(2025.09.19)
